@@ -4,7 +4,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+“I will not have my life narrowed down. I will not bow down to somebody else's whim or to someone else's ignorance.” 
+― bell hooks
 
 ## Person B:
 
