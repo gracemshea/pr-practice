@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+This has been modified by Cyndi Lopez.
 
 ## Person C:
 
